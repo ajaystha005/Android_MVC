@@ -8,7 +8,7 @@ View  - how to render (View)<br/>
 Controller - Controller (Activity, Fragment)<br/>
 </h4>
 
-![Alt text](/screenshots/team.png?raw=true "Optional Title")
+<img src="/screenshots/team.png" alt="Drawing" width="500"/>
 
-![Alt text](/screenshots/details.png?raw=true "Optional Title")
+<img src="/screenshots/details.png" alt="Drawing" width="500"/>
 
