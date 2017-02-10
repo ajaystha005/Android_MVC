@@ -7,5 +7,5 @@ This is the simple app which display the Soccer club team by following the MVC a
 View  - how to render (View)<br/>
 Controller - Controller (Activity, Fragment)<br/>
 </h4>
-
+![Alt text](/screenshots/details.png?raw=true "Optional Title")
 
